@@ -7,3 +7,7 @@ The best character is Rielle a sorcerer from the book "Die Magie der tausend Wel
 * Creates magic when creative
 * One of the strongest sorcerers
 * Abhor violence
+
+## Character quotes
+
+> Rielle has no quotes
